@@ -1,0 +1,8 @@
+#num{float: left;
+    width: 120px;}
+#operation {width: 70px;
+    padding: 0px;
+    margin: 0px;
+    float: left;}
+#operation button{margin: 5px;
+    width: 23px;}
